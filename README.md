@@ -1,5 +1,6 @@
 # Simple-CRUD-using-React-Redux
 This a simple CRUD operations using Redux toolkit for react, This is my beginning using this library
+It doesn't have the best styles, it's just for practice.
 
 Here you can see the taks that you added, the applicaction keeps the state 
 ![image](https://user-images.githubusercontent.com/96703907/224881229-5569cb5d-f915-438f-9c0c-b0c289388897.png)
